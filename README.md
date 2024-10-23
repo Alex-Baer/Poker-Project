@@ -5,4 +5,6 @@ To run this project, Download all of the Python and image files on this page and
 
 Next, click run in the top right corner to start a round of the game. 
 
-Click run each time to play more rounds
+Click run each time to play more rounds.
+#
+The code is all explained in the Python files using comments.
